@@ -14,12 +14,6 @@ I believe that my understanding of the conceopts and providing clear explainatio
 
 While I may have some confidence in my understanding on conceopts and implementing them, one thing I struggled with this semester was being able to debug my code properly. I was greeted with tons of different errors when attempting to debug my programs and actually examine how my code would impact my board. However each error seemed to be a different variation of "invalid communication between board and IDE". I found this to be a little frustrating since in order to build the projects in CCS, the board has to be connected and able to communicated with one another. 
 
-*What tools and/or resources are you adding to your support network?*
-
-
-
-*What skills from this project will be particularly transferable to other projects and/or course work?*
-
-
-
 *How did you make this project maintainable, readable, and adaptable?*
+
+I believe that I made my project maintainable, readable, and adaptable by using best coding practices when initializing naming conventions, syntax, and comments within my code. 
